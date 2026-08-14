@@ -1487,3 +1487,6 @@ body {
         font-size: 0.55rem;
     }
 }
+.side-anchor {
+    font-size: 1.0rem !important;
+}
